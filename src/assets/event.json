@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "name": "Chirstmas",
+      "date": "24th of December",
+      "time": "All day",
+      "location": {
+        "address": "Hunyadi utca",
+        "city": "Ladamér City",
+        "counrty": "Madagaszkár"
+      }
+    },
+    {
+      "name": "Szent István (vértanú) ünnepe",
+      "date": "26th of December",
+      "time": "All day",
+      "location": {
+        "address": "Petőfi utca",
+        "city": "Dunaszeg City",
+        "counrty": "Banánia"
+      }
+    },
+    {
+      "name": "Vízkereszt",
+      "date": "6th of January",
+      "time": "All day",
+      "location": {
+        "address": "Mátyás utca",
+        "city": "Zámoly City",
+        "counrty": "Bosznia"
+      }
+    }
+  ]
+}
